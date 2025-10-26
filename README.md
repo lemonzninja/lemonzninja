@@ -3,3 +3,6 @@
  
 - 🔭 I’m currently working on ... A Pong Clone
 - 🌱 I’m currently learning ... C Programming
+
+
+![LemonNinja's Stats](https://github-readme-stats.vercel.app/api?username=LemonNinja&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)

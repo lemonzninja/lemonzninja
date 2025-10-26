@@ -6,3 +6,4 @@
 
 
 ![LemonNinja's Stats](https://github-readme-stats.vercel.app/api?username=LemonNinja&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true) ![LemonNinja's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LemonNinja&theme=vision-friendly-dark&hide_border=false)
+![LemonNinja's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonNinja&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)

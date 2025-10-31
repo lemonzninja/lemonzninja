@@ -10,8 +10,6 @@
 
 ![lemonzninja's Stats](https://github-readme-stats.vercel.app/api?username=lemonzninja&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lemonzninja%20&theme=tokyonight-duo" alt="GitHub Streak" /></a>
-
 ![lemonzninja's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonzninja&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
 
 

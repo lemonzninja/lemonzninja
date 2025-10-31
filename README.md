@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... C Programming
 
 
-[![GitHub Streek](https://streak-stats.demolab.com?user=lemonzninja&theme=dark-minimalist)](https://git.io/streak-stats)
+[![GitHub Streek](https://streak-stats.demolab.com/user=lemonzninja&theme=dark-minimalist)](https://git.io/streak-stats)
 
 [![lemonzninja's Streak](https://streak-stats.demolab.com/?user=lemonzninja)](https://git.io/streak-stats)
 

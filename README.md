@@ -14,3 +14,5 @@
 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Holographic/06d28c20-e322-48d9-8b1c-f7d2fa110d79.png" /></a>
+
+<a href="https://wakatime.com/@ab4eebbb-c301-4739-a695-26f94939ee3c"><img src="https://wakatime.com/badge/user/ab4eebbb-c301-4739-a695-26f94939ee3c.svg" alt="Total time coded since Mar 17 2019" /></a>

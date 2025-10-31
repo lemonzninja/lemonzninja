@@ -4,9 +4,7 @@
 - 🔭 I’m currently working on ... A Pong Clone
 - 🌱 I’m currently learning ... C Programming
 
-
-
-[![lemonzninja's Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lemonzninja&theme=dark-minimalist)](https://git.io/streak-stats)
 
 ![lemonzninja's Stats](https://github-readme-stats.vercel.app/api?username=lemonzninja&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
 

@@ -5,6 +5,6 @@
 - 🔭 I’m currently working on ...<a href="https://github.com/lemonzninja/Hyper-Paddle"> A Pong Clone</a>
 - 🌱 I’m currently learning ... C Programming
 
-![lemonzninja's Stats](https://github-readme-stats.vercel.app/api?username=lemonzninja&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
-
 ![lemonzninja's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lemonzninja&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
+
+![lemonzninja's Stats](https://github-readme-stats.vercel.app/api?username=lemonzninja&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
